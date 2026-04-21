@@ -1,7 +1,7 @@
 # 👋 Hola, soy Gabriel Cardozo
 
-🎓 Administrador Público  
-📊 Analítica de Datos | Power BI  
+ Administrador Público  
+ Data Science | data analytics | Business Intelligence  | Power BI  | Python | SQL | machine learning    
 📍 Colombia  
 
 ---
@@ -36,4 +36,5 @@ Me enfoco en el uso de datos para mejorar procesos, identificar riesgos y fortal
 ## 📫 Contacto
 
 💼 LinkedIn: (https://www.linkedin.com/in/gabriel-esteban-cardozo-orjuela-106bab1ba/)
+
 Correo: (gesteban19cardozo@gmail.com)
