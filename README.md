@@ -29,12 +29,14 @@ Me enfoco en el uso de datos para mejorar procesos, identificar riesgos y fortal
 - Python
 - Power BI  
 - Excel  
-- Postgresql   
+- Postgresql
+- SQL
+- Snowflake   
 
 ---
 
 ## 📫 Contacto
 
-💼 LinkedIn: (https://www.linkedin.com/in/gabriel-esteban-cardozo-orjuela-106bab1ba/)
+💼 LinkedIn: (https://www.linkedin.com/in/gabriel-cardozo-ap1910999/)
 
 Correo: (gesteban19cardozo@gmail.com)
