@@ -8,30 +8,31 @@
 
 ## 🚀 Sobre mí
 
-Soy Administrador Público con experiencia en la gestión y seguimiento de convenios interadministrativos, análisis de información y apoyo a la toma de decisiones en el sector público.
+Administrador Público con formación en Data Science y experiencia en análisis de datos, Power BI, KPIs y seguimiento de proyectos estratégicos.
 
-Me enfoco en el uso de datos para mejorar procesos, identificar riesgos y fortalecer la ejecución de proyectos.
-
----
-
-## 💼 En qué trabajo
-
-- 📊 Análisis de datos  
-- 📈 Visualización (Power BI)  
-- 🧾 Seguimiento de proyectos  
-- 💰 Ejecución presupuestal  
-- 🏛️ Gestión pública  
+Actualmente trabajo en el monitoreo técnico, operativo y financiero de proyectos de alto impacto, utilizando datos para apoyar la toma de decisiones, identificar riesgos y optimizar procesos.
 
 ---
 
-## 🛠️ Herramientas
+## 💼 Áreas de interés
 
+- Data Analytics
+- Business Intelligence
+- Power BI
 - Python
-- Power BI  
-- Excel  
-- Postgresql
 - SQL
-- Snowflake   
+- Machine Learning
+- Project Analytics  
+
+---
+
+## Experiencia destacada
+
+- Seguimiento de convenios por más de $5.000 millones
+- Construcción de dashboards ejecutivos en Power BI
+- Diseño de KPIs e indicadores de gestión
+- Automatización de procesos de seguimiento
+- Modelos de Machine Learning para recomendación y riesgo crediticio
 
 ---
 
